@@ -4,3 +4,5 @@ Coca Cola
 Pesi
 
 Sweet Tea
+
+Diet Coke
